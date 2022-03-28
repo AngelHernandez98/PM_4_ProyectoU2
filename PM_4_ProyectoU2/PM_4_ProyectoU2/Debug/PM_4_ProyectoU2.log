@@ -1,0 +1,3 @@
+﻿  Assembling ProyectoU2_.asm...
+ProyectoU2_.obj : warning LNK4258: la directiva '/ENTRY:main@0' no es compatible con el modificador '/ENTRY:main'; se ha omitido
+  PM_4_ProyectoU2.vcxproj -> D:\Documentos\UAT\UAT 8vo Semestre\#8 Programación de Microprocesadores\PM_CLASE\Unidad_2\PM_4_ProyectoU2\Debug\PM_4_ProyectoU2.exe
